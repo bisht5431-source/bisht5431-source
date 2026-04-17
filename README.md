@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/dataanalyst-manish**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xI2907twWkEahycH1CdiGcSvilkU8Wsu/edit?usp=drive_link&ouid=112124864257706523313&rtpof=true&sd=true](https://drive.google.com/file/d/1RyCV_Wrv9fd5Z0M7VyeNaYfmfKAal_jd/view?usp=drive_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1xI2907twWkEahycH1CdiGcSvilkU8Wsu/edit?usp=drive_link&ouid=112124864257706523313&rtpof=true&sd=true](https://docs.google.com/document/d/1zftaRhe8Ha2yOcauDVI31muaDIhl3Gw9/edit?usp=drive_link&ouid=112124864257706523313&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love turning data into insights**
 
