@@ -17,7 +17,7 @@
 
 <img align="right" alt="Data Analyst" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💻 **Aspiring Data Analyst** passionate about uncovering insights from data
+- 💻 **Data Analyst** passionate about uncovering insights from data
 - 🛠️ **Core Skills:** SQL (Joins, Queries, Optimization) | Excel (Pivot, Formulas, Dashboards) | Power BI (DAX, Data Modeling) | Python (Pandas, NumPy, Seaborn, Matplotlib)
 - 📊 **Specialized in:** SQL | Advanced Excel | Power BI | Power Query | AI Tools
 - 🚀 **Currently Learning:** Python Data Science Stack (Pandas, NumPy, Seaborn, Matplotlib)
